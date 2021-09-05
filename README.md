@@ -4,7 +4,9 @@ This PCB enables to control in parallel two stepper motors and a servo via "TMC 
 
 PCB can be ordered at PCB manufactures for ~5 euro like JLCPCB.
 
-![PCB_Stepper_Board_Nano_BLE_TMC_220x logo](https://raw.githubusercontent.com/BastianWagner/PCB_Stepper_Board_Nano_BLE_TMC_220x/master/.github/image.png)
+![PCB_Stepper_Board_Nano_BLE_TMC_220x logo](https://raw.githubusercontent.com/BastianWagner/PCB_Stepper_Board_Nano_BLE_TMC_220x/master/image.png)
+
+image.png
 
 BOM:
 - 1x Arduino BLE 33 Board
