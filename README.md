@@ -14,4 +14,4 @@ BOM:
 - 1x Resistor with 1 kOhm
 - 2x M2 Screws
 
-![PCB_Stepper_Board_Nano_BLE_TMC_220x logo](https://raw.githubusercontent.com/BastianWagner/PCB_Stepper_Board_Nano_BLE_TMC_220x/master/image_pcb.png)
+![Stepper_Board_Nano_BLE_TMC_220x logo](https://raw.githubusercontent.com/BastianWagner/Stepper_Board_Nano_BLE_TMC_220x/master/image_pcb.png)
