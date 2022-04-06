@@ -1,6 +1,6 @@
 # PCB_Stepper_Board_Nano_BLE_TMC_220x
 
-This PCB enables to control in parallel two stepper motors and a servo via "TMC 220x" stepper driver and a Arduino Nano 33 BLE.
+This PCB enables to control in parallel two stepper motors and three servos via "TMC 220x" stepper drivers and a Arduino RP2040 Connect.
 
 PCB can be ordered at PCB manufactures for ~5 euro like JLCPCB.
 
