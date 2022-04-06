@@ -1,4 +1,4 @@
-# Stepper/Servo Board RP2040
+# Stepper/Servo Board for Arduino RP2040 Connect 
 
 This PCB enables to control in parallel two stepper motors and three servos via "TMC 220x" stepper drivers and a Arduino RP2040 Connect.
 
