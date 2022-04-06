@@ -1,4 +1,4 @@
-# PCB_Stepper_Board_Nano_BLE_TMC_220x
+# Stepper/Servo Board RP2040
 
 This PCB enables to control in parallel two stepper motors and three servos via "TMC 220x" stepper drivers and a Arduino RP2040 Connect.
 
